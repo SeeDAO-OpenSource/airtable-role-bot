@@ -1,0 +1,26 @@
+{
+    "name": "airtable-role-bot",
+    "version": "1.0.0",
+    "description": "airtable-role-bot",
+    "main": "index.js",
+    "scripts": {
+        "start": "ts-node src/index.ts",
+        "watch": "tsc -p tsconfig.json -w",
+        "test": "mocha -r ts-node/register \"tests/**/*.spec.ts\""
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SeeDAO-OpenSource/airtable-role-bot.git"
+    },
+    "author": "SeeDAO",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/SeeDAO-OpenSource/airtable-role-bot/issues"
+    },
+    "homepage": "https://github.com/SeeDAO-OpenSource/airtable-role-bot#readme",
+    "dependencies": {
+        "discord.js": "^13.8.0",
+        "dotenv": "^16.0.1",
+        "ts-node": "^10.8.1"
+    }
+}

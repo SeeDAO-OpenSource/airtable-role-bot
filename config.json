@@ -1,0 +1,8 @@
+{
+    "prefix": "!seedao",
+    "channel": "role-bot-test",
+    "roles": {
+        "开发者公会": "testrole-devGuild",
+        "设计公会": "testrole-designGuild"
+    }
+}
