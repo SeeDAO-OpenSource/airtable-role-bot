@@ -4,5 +4,7 @@
     "roles": {
         "开发者公会": "testrole-devGuild",
         "设计公会": "testrole-designGuild"
-    }
+    },
+    "discordId": "841189467128594442",
+    "channelId": "986944717491167282"
 }
