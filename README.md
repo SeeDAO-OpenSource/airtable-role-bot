@@ -9,5 +9,13 @@ TBD
 ```
 nvm install v16.6.0
 nvm use v16.6.0
-npm install ts-node
+npm install ts-node -g
+```
+
+2. 开始
+
+
+```
+npm install
+npm run start
 ```
